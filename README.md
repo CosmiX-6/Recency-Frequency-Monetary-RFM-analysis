@@ -13,6 +13,8 @@ Using these scores, we segmented our customer list to:
 	- Monetary : 4 is the highest Monetary with highest purchased amount in dollars.
 	
 What can be found in this repository ?
+| #Sr.NO. | #Filename | #Description |
+| :---: | :---: | :---: |
 | 1. | data.csv | (Our main dataset which we used for analysis) |
 | 2. | RFM ANALYSIS.sql | (Sqlite script that we used to analyze our dataset and to generate result) |
 | 3. | RFM ANALYSIS(data).xlsx | (Output data in formatted in rows and columns) |
